@@ -1,6 +1,7 @@
 # huawei-block-list
 
 - [huawei-block-list](#huawei-block-list)
+  - [Statement](#statement)
   - [Explanation for An Existing of `beian.gov.cn`](#explanation-for-an-existing-of-beiangovcn)
   - [Timeline](#timeline)
   - [Description](#description)
@@ -15,7 +16,15 @@
     - [Usage Behaviors](#usage-behaviors)
 
 
+## Statement 
+
+As a solely maintainer for this project, please accept my deepest apologies for mistakes which cause misunderstadning for Huawei brand and customers. **The fact that Huawei P30 Pro initated connections to `beian.gov.cn` is not true.** 
+
+I still maintain this project for my own benefits. Please use it at your own risk. Please see more info in [next section](#explanation-for-an-existing-of-beiangovcn), on an anaylsis of `beian.gov.cn`
+
 ## Explanation for An Existing of `beian.gov.cn`
+
+Please see my [statement](#statement) above
 
 Due to my responsibility for this hobby research to prevent distributing misleading or misunderstanding information, and suggestions made by other researchers to discover more findings or correct me if I did something wrong. **As an intention for this research I told everyone in Thai, we couldn't and shouldn't make a conclusion in this moment until we can see everything clearly.**
 
