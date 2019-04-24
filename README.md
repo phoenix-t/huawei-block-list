@@ -15,7 +15,6 @@
     - [Network Configuration](#network-configuration)
     - [Usage Behaviors](#usage-behaviors)
 
-
 ## Statement 
 
 As a solely maintainer for this project, please accept my deepest apologies for mistakes which cause misunderstadning for Huawei brand and customers. **The fact that Huawei P30 Pro initated connections to `beian.gov.cn` is not true.** 
@@ -38,6 +37,7 @@ Due to my responsibility for this hobby research to prevent distributing mislead
   - Updated code and lists to support whitelist domain names and exclude false positive domain names
   - Updated posts to 2600 Thailand, /r/netsec on the thread and other media
   - Huawei Thailand ackownledged new update on false positive
+  - Apology statements both in Thai and English have been distributed
 
 ## Description
 
