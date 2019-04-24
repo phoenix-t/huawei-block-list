@@ -21,8 +21,8 @@ Another requests to `beian.gov.cn`:
 
 <p align="center"><img src ="img/syslog_2.png" /></p>
 
-As shown above, the requests to `www.beain.gov.cn` always happened after `baidu.com` related domains. So, I try to access `baidu.com` again from another network and this is what I've found:
+As shown above, the requests to `www.beian.gov.cn` always happened after `baidu.com` related domains. So, I try to access `baidu.com` again from another network and this is what I've found:
 
 <p align="center"><img src ="img/wireshark.png" /></p>
 
-The DNS request to `www.beain.gov.cn` is there.
+The DNS request to `www.beian.gov.cn` is there.
